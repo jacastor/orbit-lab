@@ -119,7 +119,7 @@ pytest tests/
 ## Author
 
 Jose | Spacecraft Systems & Software Engineer  
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+[GitHub](https://github.com/jacastor) · [LinkedIn](https://www.linkedin.com/in/jose-castro-783a9a13b/)
 
 ---
 
